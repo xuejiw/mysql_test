@@ -1,0 +1,7 @@
+04/24/21 19:11:17[Info   599]: Driver successfully uninstalled component 0.
+04/24/21 19:11:17[Info   586]: Driver uninstall: no additional component.
+04/24/21 19:11:17[Info   809]: Inf uninstall oem39.inf fails with error -536870339
+04/24/21 19:11:17[Info   861]: Driver service is stopped after 0 ms.
+04/24/21 19:11:17[Info   622]: Driver delete succeeds.
+04/24/21 19:11:17[Info   456]: remove device success
+
